@@ -1,0 +1,5 @@
+path : ../datasets/drh
+train: images/train
+val: images/valid
+nc: 7
+names: ['DrHouse', 'DrWilson', 'Foreman', 'Chase', 'Cameron', 'Cuddy']

@@ -1,0 +1,85 @@
+
+epoch: -1
+my  loss = tensor([0]), separate my losses tensor([0, 0, 0])
+nc = 0 niou = 0
+ ord loss = tensor([0]), separate ord losses tensor([0, 0, 0]) 
+
+epoch: 0
+my  loss = tensor([0.59216], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([0.00615, 0.02093, 0.00993], device='cuda:0')
+nc = 2479 niou = 7
+ ord loss = tensor([748.15277], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([22.24950, 10.83070, 13.72536], device='cuda:0') 
+
+epoch: 1
+my  loss = tensor([0.], device='cuda:0'), separate my losses tensor([0., 0., 0.], device='cuda:0')
+nc = 1 niou = 0
+ ord loss = tensor([607.31317], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([18.35986,  6.83950, 12.80567], device='cuda:0') 
+
+epoch: 2
+my  loss = tensor([0.], device='cuda:0'), separate my losses tensor([0., 0., 0.], device='cuda:0')
+nc = 0 niou = 0
+ ord loss = tensor([559.43909], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([16.79406,  6.19300, 12.01481], device='cuda:0') 
+
+epoch: 3
+my  loss = tensor([16.83702], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([0.27923, 0.51348, 0.26171], device='cuda:0')
+nc = 18695 niou = 1370
+ ord loss = tensor([524.99811], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([15.74720,  6.14295, 10.96088], device='cuda:0') 
+
+epoch: 4
+my  loss = tensor([121.52654], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([2.10326, 3.51418, 1.98663], device='cuda:0')
+nc = 157957 niou = 21709
+ ord loss = tensor([585.40942], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([15.53166,  9.72166, 11.38216], device='cuda:0') 
+
+epoch: 5
+my  loss = tensor([134.37669], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([2.43452, 3.66941, 2.30635], device='cuda:0')
+nc = 180918 niou = 27981
+ ord loss = tensor([567.81787], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.80929,  9.65473, 11.06030], device='cuda:0') 
+
+epoch: 6
+my  loss = tensor([177.63527], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([3.15263, 4.96522, 2.99005], device='cuda:0')
+nc = 242742 niou = 44214
+ ord loss = tensor([582.47809], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.68283, 10.73654, 11.01752], device='cuda:0') 
+
+epoch: 7
+my  loss = tensor([440.49521], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 5.74678, 16.14881,  5.66607], device='cuda:0')
+nc = 1010314 niou = 175768
+ ord loss = tensor([827.94482], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([15.05748, 25.38529, 11.36820], device='cuda:0') 
+
+epoch: 8
+my  loss = tensor([498.44070], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.25781, 18.85031,  6.08231], device='cuda:0')
+nc = 1333915 niou = 258024
+ ord loss = tensor([874.99408], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([15.09541, 28.08689, 11.56582], device='cuda:0') 
+
+epoch: 9
+my  loss = tensor([482.85342], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.26498, 17.84858,  6.08660], device='cuda:0')
+nc = 1291590 niou = 277771
+ ord loss = tensor([870.79291], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([15.35766, 27.38214, 11.75539], device='cuda:0') 
+
+epoch: 10
+my  loss = tensor([496.71359], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.39602, 18.39473,  6.28878], device='cuda:0')
+nc = 1402894 niou = 319888
+ ord loss = tensor([865.89911], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.58078, 27.96980, 11.62415], device='cuda:0') 
+
+epoch: 11
+my  loss = tensor([489.87015], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.50119, 17.80750,  6.33957], device='cuda:0')
+nc = 1341651 niou = 318656
+ ord loss = tensor([852.15021], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.56460, 27.04938, 11.70069], device='cuda:0') 
+
+epoch: 12
+my  loss = tensor([488.85358], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.44812, 17.81520,  6.31698], device='cuda:0')
+nc = 1381086 niou = 331438
+ ord loss = tensor([859.27094], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.62101, 27.41741, 11.72823], device='cuda:0') 
+
+epoch: 13
+my  loss = tensor([500.73456], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.73145, 17.99821,  6.59002], device='cuda:0')
+nc = 1389939 niou = 348578
+ ord loss = tensor([860.55249], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.28643, 27.84723, 11.70842], device='cuda:0') 
+
+epoch: 14
+my  loss = tensor([505.32526], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.80715, 18.24801,  6.56128], device='cuda:0')
+nc = 1432078 niou = 371641
+ ord loss = tensor([859.25702], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([14.19234, 28.01344, 11.56352], device='cuda:0') 
+
+epoch: 15
+my  loss = tensor([510.02789], device='cuda:0', grad_fn=<AddBackward0>), separate my losses tensor([ 6.89736, 18.29598,  6.70455], device='cuda:0')
+nc = 1436811 niou = 364601
+ ord loss = tensor([854.94427], device='cuda:0', grad_fn=<AddBackward0>), separate ord losses tensor([13.80798, 28.19465, 11.47551], device='cuda:0') 
